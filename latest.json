@@ -1,21 +1,21 @@
 {
-  "version": "11.2.1",
-  "tag": "v11.2.1",
-  "name": "Cyberneticos Elétrica V11.2.1",
-  "notes": "Atualização da Cyberneticos Elétrica",
-  "publishedAt": "2026-08-30T21:52:38.477739+00:00",
-  "apkName": "Cyberneticos-Eletrica-V11.2.1.apk",
-  "apkUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.2.1/Cyberneticos-Eletrica-V11.2.1.apk",
-  "exeName": "Cyberneticos-Eletrica-Setup-V11.2.1.exe",
-  "exeUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.2.1/Cyberneticos-Eletrica-Setup-V11.2.1.exe",
+  "version": "11.3.0",
+  "tag": "v11.3.0",
+  "name": "Cyberneticos Elétrica V11.3.0",
+  "notes": "Atualização Sobre Thema E Funções Realocados .",
+  "publishedAt": "2026-08-31T12:37:39.300469+00:00",
+  "apkName": "Cyberneticos-Eletrica-V11.3.0.apk",
+  "apkUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-V11.3.0.apk",
+  "exeName": "Cyberneticos-Eletrica-Setup-V11.3.0.exe",
+  "exeUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-Setup-V11.3.0.exe",
   "platforms": {
     "android": {
-      "name": "Cyberneticos-Eletrica-V11.2.1.apk",
-      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.2.1/Cyberneticos-Eletrica-V11.2.1.apk"
+      "name": "Cyberneticos-Eletrica-V11.3.0.apk",
+      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-V11.3.0.apk"
     },
     "windows": {
-      "name": "Cyberneticos-Eletrica-Setup-V11.2.1.exe",
-      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.2.1/Cyberneticos-Eletrica-Setup-V11.2.1.exe"
+      "name": "Cyberneticos-Eletrica-Setup-V11.3.0.exe",
+      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-Setup-V11.3.0.exe"
     }
   }
 }
