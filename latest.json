@@ -1,21 +1,25 @@
 {
-  "version": "11.3.0",
-  "tag": "v11.3.0",
-  "name": "Cyberneticos Elétrica V11.3.0",
-  "notes": "Atualização Sobre Thema E Funções Realocados .",
-  "publishedAt": "2026-08-31T12:37:39.300469+00:00",
-  "apkName": "Cyberneticos-Eletrica-V11.3.0.apk",
-  "apkUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-V11.3.0.apk",
-  "exeName": "Cyberneticos-Eletrica-Setup-V11.3.0.exe",
-  "exeUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-Setup-V11.3.0.exe",
+  "version": "11.5.0",
+  "tag": "v11.5.0",
+  "name": "Cyberneticos Elétrica V11.5.0",
+  "notes": "Cyberneticos Eletrica V11.5.0 atualizador interno Android e Windows",
+  "publishedAt": "2026-08-31T15:27:58.749372+00:00",
+  "apkName": "Cyberneticos-Eletrica-V11.5.0.apk",
+  "apkUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.5.0/Cyberneticos-Eletrica-V11.5.0.apk",
+  "apkSize": 7603842,
+  "exeName": "Cyberneticos-Eletrica-Setup-V11.5.0.exe",
+  "exeUrl": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.5.0/Cyberneticos-Eletrica-Setup-V11.5.0.exe",
+  "exeSize": 100296386,
   "platforms": {
     "android": {
-      "name": "Cyberneticos-Eletrica-V11.3.0.apk",
-      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-V11.3.0.apk"
+      "name": "Cyberneticos-Eletrica-V11.5.0.apk",
+      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.5.0/Cyberneticos-Eletrica-V11.5.0.apk",
+      "size": 7603842
     },
     "windows": {
-      "name": "Cyberneticos-Eletrica-Setup-V11.3.0.exe",
-      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.3.0/Cyberneticos-Eletrica-Setup-V11.3.0.exe"
+      "name": "Cyberneticos-Eletrica-Setup-V11.5.0.exe",
+      "url": "https://github.com/gabrielvinicius5111-beep/Cyberneticos-Eletrica-Updates/releases/download/v11.5.0/Cyberneticos-Eletrica-Setup-V11.5.0.exe",
+      "size": 100296386
     }
   }
 }
